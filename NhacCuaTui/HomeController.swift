@@ -231,7 +231,5 @@ class HomeController: UIViewController {
     }
 
     // ubuntu branch1
-    // ubuntu branch1
-    //branch1
 
 }
